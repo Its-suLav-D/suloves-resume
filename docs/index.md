@@ -5,7 +5,7 @@ title: Sulove's Resume
 
 # Sulove Dahal
 
-Software Engineer, Machine Learning Engineer, Cloud/ Distributed Systems
+Software Engineer | Machine Learning Engineer | Cloud/Distributed Systems
 
 <div id="webaddress">
 <a href="#">dah19001@byui.edu</a>
