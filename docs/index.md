@@ -1,89 +1,107 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Sulove's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
+# Sulove Dahal
+
+Software Engineer, Machine Learning Engineer, Cloud/ Distributed Systems
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="#">dah19001@byui.edu</a>
+| <a href="https://github.com/Its-suLav-D">My Github Profile </a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
+<div>
+ <a href="https://www.linkedin.com/in/sulove-dahal-4499a2181/"> LinkedIn </a>
+</div>
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+`2019-2023`
+**Brigham Young University- Idaho**, Rexburg, ID
 
 - 4.0 Major GPA
-
+- Awards: Thomas E.Ricks Grant
+- Minor: Machine Learning
 
 ## Related Experience
 
-### Internships
+### Teaching Assistant (CSE 341 | WDD 330)
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`December 2022 - Present`
+**Brigham Young University- Idaho**, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Created a JavaScript Crash Course, effectively refreshing programming skills for 100+ students and expediting learning progress in Backend (Node.js/MongoDB) classes
 
-### Data Science Lead
+- Offered virtual lab support and personalized assistance to students, fostering group discussions and collaborative activities for improved learning experiences
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Internships (Software Engineer)
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`October 2022- Jan 2023`
+**SAP America**, PA, USA
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Developed Eclipse DataSpace Connector, enabling secure data sharing for 5+ organizations in multi-cloud federations and serving as a crucial component for the European automotive consortium Catena-X, with a focus on identity, trust, sovereignty, and interoperability
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Maintained CI/CD pipelines with Hyperspace, Azure Pipelines, and Kustomize, streamlining microservice deployment across 5 distinct environments and reducing deployment time by 25%
 
-### Data Science Consulting Team
+- Utilized Elastic Stack and Kibana to visualize marketplace metrics, identifying data trends and patterns; informed marketing strategies, resulting in a 20% increase in targeted leads
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`September 2021 - Dec 2021`
+**Thayne Consulting**, Rexburg, ID
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Led hybrid mobile app development using Angular/Ionic and ASP.NET, enhancing user experience for 10k+ monthly
+  visitors
+- Utilized Azure Event Hub for user activity tracking and implemented personalized article recommendations using Cron
+  Jobs, Shell Scripts, and SendGrid, increasing user engagement by 5%
+- Designed, built, and tested a custom REST API using Web API framework and C# for efficient data retrieval from
+  WordPress-based websites, catering to 10k+ monthly visitors
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+`July 2020 - Sept 2020`
+**Learngaroo Education**, Melbourne, Victoria, Australia
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Designed and built API architecture and RESTful services to dynamically serve data to JavaScript front-end based on user input, enhancing user experience
 
+- Devised and executed a microservices architecture strategy, leading to a 3% improvement in the development workflow and enhanced system scalability
+- Incorporated Swagger/Swagger UI for seamless API endpoint documentation, accelerating front-end development and boosting overall efficiency significantly
 
-## Service and Work History
+- Successfully completed three front-end UI projects, including crafting UI for mobile devices and constructing front pages using jQuery, Bootstrap, Node.js, Express.js, and JavaScript
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Spearheaded agile front-end development for an international team based in the USA, Australia, and Nepal, fostering effective collaboration and project success
 
+### Projects
 
-`2023-2025`
-__Service Missionary__, South Africa
+`Jan 2023 - Present`
+**NAATI Academy** [NAATI-Academy](https://www.naatiacademy.com)
 
+**Co-founder/CTO**
 
+- Single-handedly architected and developed an AI-powered SAAS platform for NAATI Academy, enhancing learning experience and increasing language comprehension efficiency for students preparing for NAATI test
+
+- Streamlined operations by implementing AWS serverless architecture, reducing operational costs by 30% and ensuring platform scalability
+
+- Developed and fine-tuned AI algorithms for personalized learning pathways, boosting student engagement by 25% and retention rates by 15%
+
+- Optimized system performance by proactively identifying and addressing technical bottlenecks, maintaining a 99% uptime for platform
+
+## Skills
+
+- JavaScript, C#, C++, Python, Angular.Js, React.Js, Redux, Node.Js, TypeScript, Express.Js, Asp.NET, OOPs, Design Patterns, Data Structures, Algorithms, REST API, GraphQL, MySql, NoSQL, CosmosDB
+
+- Web Architecture, Domain-Driven Design, Azure, GCP, AWS, Selenium, CI /CD, GitHub Workflows, Github, Flask, Kafka, Elastic Stack, Travis CI, Azure DevOps, Terraform, HyperSpace, Argo CD
+
+- Machine Learning, Data Analysis, Pandas, Numpy, Matplotlib, Tensorflow/Keras, DevOps, Docker, Kubernetes, OpenShift, Helm, Kustomize, Kyma, SAP BTP, SAP FIORI, GitOps
+
+## Certifications
+
+- Microsoft Certified: Azure Fundamentals, Azure Developer Associate
+
+- IBM DevOps and Software Engineering Professional Certificate, Machine Learning Specialization(Stanford Online and
+  DeepLearning)
+
+- FreeCodeCamp: Data Analysis, Problem Solving
+
+- Google: Data Analysis
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: March 2023 -->
