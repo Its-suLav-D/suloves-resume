@@ -31,7 +31,7 @@ Software Engineer, Machine Learning Engineer, Cloud/ Distributed Systems
 `December 2022 - Present`
 **Brigham Young University- Idaho**, Rexburg, ID
 
-- Created a JavaScript Crash Course, effectively refreshing programming skills for 100+ students and expediting learning progress in Backend (Node.js/MongoDB) classes
+- Created a JavaScript Crash Course, effectively refreshing programming skills for 100+ students and expediting learning progress in Backend (Node.js/MongoDB) classes [CrashCourse](https://its-sulav-d.github.io/JS-Crash-Quarto-2/)
 
 - Offered virtual lab support and personalized assistance to students, fostering group discussions and collaborative activities for improved learning experiences
 
