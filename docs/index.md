@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Sulove's Resume
 ---
 
@@ -10,9 +10,7 @@ Software Engineer, Machine Learning Engineer, Cloud/ Distributed Systems
 <div id="webaddress">
 <a href="#">dah19001@byui.edu</a>
 | <a href="https://github.com/Its-suLav-D">My Github Profile </a>
-</div>
-<div>
- <a href="https://www.linkedin.com/in/sulove-dahal-4499a2181/"> LinkedIn </a>
+|  <a href="https://www.linkedin.com/in/sulove-dahal-4499a2181/"> LinkedIn </a>
 </div>
 
 ## Education
