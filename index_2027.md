@@ -53,7 +53,7 @@ Software Engineer, Machine Learning Engineer, Cloud/ Distributed Systems
 - Designed, built, and tested a custom REST API using Web API framework and C# for efficient data retrieval from
   WordPress-based websites, catering to 10k+ monthly visitors
 
-`July 2020 - August 2020`
+`July 2020 - Sept 2020`
 **Learngaroo Education**, Melbourne, Victoria, Australia
 
 - Designed and built API architecture and RESTful services to dynamically serve data to JavaScript front-end based on user input, enhancing user experience
@@ -96,6 +96,8 @@ Software Engineer, Machine Learning Engineer, Cloud/ Distributed Systems
   DeepLearning)
 
 - FreeCodeCamp: Data Analysis, Problem Solving
+
+- Google: Data Analysis 
 
 <!-- ### Footer
 
